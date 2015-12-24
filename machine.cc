@@ -1,0 +1,6 @@
+class machine {
+
+virtual machine(){
+}
+
+}
