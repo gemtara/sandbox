@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Richard Hello World! Richard" << std::endl;
+    cout << "Hello World! Richard" << std::endl;
 }
