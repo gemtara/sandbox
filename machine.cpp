@@ -1,9 +1,9 @@
 #include "machine.h"
-
-  machine::machine(){
-      cout<<"new"<<endl;
-  };  
-  machine::~machine() {
-      cout<<"del"<<endl;
-  };
-  
+machine::machine() 
+{
+    cout<<"new"<<endl;
+};
+machine::~machine() 
+{
+    cout<<"del"<<endl;
+};
