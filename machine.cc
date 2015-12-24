@@ -1,6 +1,1 @@
-class machine {
-
-virtual machine(){
-}
-
-}
+tfdsfsdfs
