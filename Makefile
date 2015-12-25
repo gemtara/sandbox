@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -Wall
+CFLAGS = -Wall -g
 DEPS = machine.h data.h
 OBJ = hello-cpp-world.o machine.o
 
