@@ -1,6 +1,6 @@
 CC = g++
 CFLAGS = -Wall
-DEPS = machine.h
+DEPS = machine.h data.h
 OBJ = hello-cpp-world.o machine.o
 
 %.o: %.cc %.cpp $(DEPS)
