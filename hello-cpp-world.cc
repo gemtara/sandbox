@@ -19,4 +19,13 @@ int main() {
     cout<< machine1->Id<<endl;
     cout<< machineP->Id<<endl;
     delete machine1;
+    
+    
+    
+    int i = 5, j = 6, k = 7;
+    int *ip1 = &i, *ip2 = &j;
+    //int **ipp = &ip1;
+    int **ipp = &ip1;
+    *ipp=ip1;
+    cout<<"123 "<<endl;
 }   
